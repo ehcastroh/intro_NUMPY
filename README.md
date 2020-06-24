@@ -18,9 +18,9 @@
 
 **Author List (in no particular order):** [Yash Wagh](https://www.linkedin.com/in/ywagh/), [Ikhlaq Sidhu](https://ikhlaq-sidhu.com/), [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/), and [Debbie Yuen](http://www.debbiecyuen.me/) 
 
-**About (TL/DR):** The following collection of notebooks introduces developers and data scientists to web development using Flask. Flask is one of many available web server gateway interface (WSGI) tools that enable rapid and scalable websites and apps with a relatively accessible learning curve. The barebones capacity of Flask is particularly valuable when prototyping and iterating upon products, services, and machine learning applications.
+**About (TL/DR):** The following notebook introduces developers and data scientists to data manipulation using Numpy. NUMPY
 
-**Learning Goal(s):** Gain an understanding of how to utilize available libraries and packages to quickly build products and services -- in real-life settings, using web-first methodology, driven by data, and end-to-end. In particular, learn how to build a bare-bones flask environment that can then be repurposed to (1) handle email automation tasks, (2) deploy ML models in real-time, and (3) create engaging dashboards using D3.js.
+**Learning Goal(s):** 
 
 **Associated Materials:** None
 
@@ -93,9 +93,3 @@ Now that you've learned how to deploy a Flask environment,there is much more tha
      width="100%" />
 
 <hr style="border: 2px solid#003262;" />
-
-
-
-
-
-# intro_NUMPY
