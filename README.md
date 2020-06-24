@@ -7,7 +7,7 @@
      width="100%" />
      
      
-# **DATA-X:** <br>  m110 - INTRODUCTION TO NUMPY.
+# **DATA-X:** <br>  m110 - INTRODUCTION TO NUMERICAL ANALYSIS USING NUMPY
 
 <br>
 
@@ -24,7 +24,7 @@
 
 **Associated Materials:** None
 
-**Keywords (Tags):** numpy, 
+**Keywords (Tags):** numpy, numpy-tutorial, numerical-analysis, ndarray, array-programming, numerical-python 
 
 **Prerequisite Knowledge:** (1) Python
 
