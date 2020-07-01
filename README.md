@@ -16,17 +16,16 @@
 
 
 
-**Author List (in no particular order):** [Yash Wagh](https://www.linkedin.com/in/ywagh/), [Ikhlaq Sidhu](https://ikhlaq-sidhu.com/), [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/), and [Debbie Yuen](http://www.debbiecyuen.me/) 
-
+**Author List (in no particular order):** [Yash Wagh](https://www.linkedin.com/in/ywagh/), [Debbie Yuen](http://www.debbiecyuen.me/), [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/), and [Ikhlaq Sidhu](https://ikhlaq-sidhu.com/)
 **About (TL/DR):** The following notebook introduces developers and data scientists to numerical analysis and data manipulation using NumPy. NumPy is the numerical analysis backbone to several popular open source analysis and machine learning packages. 
 
-**Learning Goal(s):** TODO
+**Learning Goal(s):** Fast and versatile, NumPy is the backbone to several machine learning, data science, and deep learning libraries. On it's own, NumPy is optimized C code that functions seamlessly with popular programing languages, such as Python, as well as legacy languages such as Fortran. This notebook an overview of the syntax and functionality of NumPy.
 
 **Associated Materials:** None
 
 **Keywords (Tags):** numpy, numpy-tutorial, numerical-analysis, ndarray, array-programming, numerical-python, data-x 
 
-**Prerequisite Knowledge:** (1) Python
+**Prerequisite Knowledge:** (1) Python, (2) Matplotlib
 
 **Target User:** Data scientists, applied machine learning engineers, and developers
 
@@ -35,8 +34,8 @@
 
 <hr style="border: 4px solid#003262;" />
 
-<img src="assets/content/images/flask-03.png"
-     alt="Simple Archtecture"
+<img src="assets/content/images/numPY_thumbnail-01.png"
+     alt="Data-X NumPy"
      align="center" 
      style="align:center" 
      width="40%"/>
@@ -46,7 +45,7 @@
   - m110_Intro_numerical_analysis_using_numpy -- NumPy structures and data manipulation.
   - assets/homeworks/   -- Contains several exercises to help you master the material.
 
-#### **I. DATAFRAME CREATION**
+#### **I. NUMPY ARRAY CREATION**
 
 <img src="assets/content/images/flaskintroscreens_updated-05.png"
      alt="Simple Architecture"
@@ -54,11 +53,12 @@
      style="align:center" 
      width="40%"/>
      
-    1) PART 1.1: PANDAS DATAFRAME
-    2) PART 1.2: DATAFRAME CREATION
-    3) PART 1.3: ACCESSING DATAFRAME
+    1) PART 1.1: INTRODUCING NUMPY ARRAYS
+    2) PART 1.2: ARRAY CONSTRUCTION - CREATING NUMPY ARRAYS
+    3) PART 1.3: MULTI-DIMENSIONAL ARRAYS
     
-#### **II. READ-IN AND EXPLORE DATA USING DATAFRAMES**
+#### **II. ACCESS, DATA MANIPULATION, AND OPERATIONS**
+
 
 <img src="assets/content/images/flaskintroscreens_updated-06_09.png"
      alt="Simple Architecture"
@@ -66,17 +66,18 @@
      style="align:center" 
      width="40%"/>
      
-    1) PART 2.1: READ DATA INTO DATAFRAMES
-    2) PART 2.2: WRITING DATA TO CSV
-    3) PART 2.3 (OPTIONAL): READ AND WRITE EXCEL FILES
+    1) PART 2.1: ARRAY SLICING AND INDEXING]
+    2) PART 2.2: ARRAY OPERATIONS
+    3) PART 2.3 (OPTIONAL) NUMPY ARRAY VS PYTHON LIST
+    4) PART 2.4 (OPTIONAL) ARRAY BROADCASTING
+    5) PART 2.5 (OPTIONAL) NUMPY APPLICATION - PREDICTION USING ORDINARY LEAST SQUARES
     
     
 #### **III. WRAP UP AND NEXT STEPS**
 
+There is much more than can be done with NumPy. Wanting to learn how NumPy is used in the development cycle for neural networks, or how it's used for rapid data preprocessing? Visit the [Data-X website](https://datax.berkeley.edu/) to learn more, or use the following links to curated topics of interest:
 
-Now that you've learned how to deploy a Flask environment,there is much more than can be done using Flask. Visit the [Data-X website](https://datax.berkeley.edu/) to learn how to link Flask to other services, or use the following links to curated topics of interest:
-
-> [**INTRODUCTION TO DATA ANALYSIS USING PANDAS (M120)**]() Introduces syntax, structures, and manipulation operations for Pandas.
+> [**INTRODUCTION TO DATA ANALYSIS USING PANDAS (M120)**]() Introduces syntax, structures, and manipulation operations for Pandas.<br>
 
 > [**INTRODUCTION TO DATA VISUALIZATION USING MATPLOTLIB + SEABORN (m130): url needed**]() Covers the process of using DataFrames to create engaging visualizations <br>
 
