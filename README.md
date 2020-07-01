@@ -23,7 +23,7 @@
 
 **Associated Materials:** None
 
-**Keywords (Tags):** numpy, numpy-tutorial, numerical-analysis, ndarray, array-programming, numerical-python, data-x 
+**Keywords (Tags):** numpy, numpy-tutorial, numerical-analysis, ndarray, array-programming, array-broadcasting, numerical-python, data-x, uc-berkeley-engineering 
 
 **Prerequisite Knowledge:** (1) Python, (2) Matplotlib
 
