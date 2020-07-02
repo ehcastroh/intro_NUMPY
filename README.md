@@ -47,8 +47,8 @@
 
 #### **I. NUMPY ARRAY CREATION**
 
-<img src="assets/content/images/flaskintroscreens_updated-05.png"
-     alt="Simple Architecture"
+<img src="assets/content/images/numpyillustrations-02.png"
+     alt="NumPy Array"
      align="center" 
      style="align:center" 
      width="40%"/>
