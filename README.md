@@ -17,6 +17,7 @@
 
 
 **Author List (in no particular order):** [Yash Wagh](https://www.linkedin.com/in/ywagh/), [Debbie Yuen](http://www.debbiecyuen.me/), [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/), and [Ikhlaq Sidhu](https://ikhlaq-sidhu.com/)
+
 **About (TL/DR):** The following notebook introduces developers and data scientists to numerical analysis and data manipulation using NumPy. NumPy is the numerical analysis backbone to several popular open source analysis and machine learning packages. 
 
 **Learning Goal(s):** Fast and versatile, NumPy is the backbone to several machine learning, data science, and deep learning libraries. On it's own, NumPy is optimized C code that functions seamlessly with popular programing languages, such as Python, as well as legacy languages such as Fortran. This notebook an overview of the syntax and functionality of NumPy.
